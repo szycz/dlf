@@ -5,3 +5,4 @@ hello，world！！！
 hello，world！！！ * 3
 这次通过 GitHub 合并请求提交修改。
 这是同事新增的学习笔记
+这是通过 VS Code 提交的修改。
